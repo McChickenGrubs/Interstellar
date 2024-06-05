@@ -655,3 +655,5 @@ packages:
       utf-8-validate:
         optional: true
     dev: false
+
+config=true pnpm start
